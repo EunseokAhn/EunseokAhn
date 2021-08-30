@@ -2,7 +2,7 @@
 
  My major is **statistics:books:**, and I have been studying **data science:computer:** since 2016. 
  I have project experience using **R, python** languages. 
- I am very interested in **machine learning** and *deep learning**. 
+ I am very interested in **machine learning** and **deep learning**. 
  I am especially interested in graph data analysis.
 
 ### :purple_heart: Career
